@@ -23,7 +23,7 @@ The project aims to build a web scraper to extract book titles and star ratings 
 - **Ethical Practice**: 1-second delay between requests to prevent server overload.
 - **Data Extracted**:
   - `Title` of the book (used as proxy for review text)
-  - `Star Rating` (converted to numerical 1–5)
+  - `Star Rating` (converted to numerical 1–5) 
 
 ---
 
