@@ -15,7 +15,7 @@ The project aims to build a web scraper to extract book titles and star ratings 
 > ⚠️ Negative: 1–3 stars
 
 ---
-
+  
 ## 🕸️ Web Scraper Details
 
 - **Tools Used**: `requests`, `BeautifulSoup`
