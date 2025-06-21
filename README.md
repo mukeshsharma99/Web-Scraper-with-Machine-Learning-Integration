@@ -9,7 +9,7 @@ This project extracts book titles and star ratings from the public website [Book
 ### 🎯 Problem Statement
 The project aims to build a web scraper to extract book titles and star ratings from 'Books to Scrape'. The scraped data is analyzed with:  
 - **Supervised Learning** to classify reviews as positive or negative.
-- **Unsupervised Learning** to group reviews into natural clusters.
+- **Unsupervised Learning** to group reviews into natural clusters. 
 
 > ⭐ Positive: 4–5 stars  
 > ⚠️ Negative: 1–3 stars
