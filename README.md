@@ -1,6 +1,6 @@
 # 📚 Book Sentiment Analyzer with Web Scraping & Machine Learning
 
-This project extracts book titles and star ratings from the public website [Books to Scrape](http://books.toscrape.com), performs sentiment classification using supervised machine learning models, and applies clustering to uncover patterns using unsupervised learning techniques.  
+This project extracts book titles and star ratings from the public website [Books to Scrape](http://books.toscrape.com), performs sentiment classification using supervised machine learning models, and applies clustering to uncover patterns using unsupervised learning techniques.   
 
 ---
 
