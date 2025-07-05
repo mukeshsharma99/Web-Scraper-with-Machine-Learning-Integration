@@ -4,7 +4,7 @@ This project extracts book titles and star ratings from the public website [Book
 
 ---
 
-## 🧠 Project Overview  
+## 🧠 Project Overview   
     
 ### 🎯 Problem Statement
 The project aims to build a web scraper to extract book titles and star ratings from 'Books to Scrape'. The scraped data is analyzed with:  
