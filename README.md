@@ -12,7 +12,7 @@ The project aims to build a web scraper to extract book titles and star ratings 
 - **Unsupervised Learning** to group reviews into natural clusters. 
 
 > ⭐ Positive: 4–5 stars  
-> ⚠️ Negative: 1–3 stars
+> ⚠️ Negative: 1–3 stars   
 
 ---
   
